@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi I'm **Roshini**
 I am currently pursuing a degree in **Data Science and Artificial Intelligence** while simultaneously gaining hands-on experience through an internship.<br>I have a strong passion for **mathematics and problem-solving**, and I genuinely enjoy working with data—exploring it, uncovering hidden patterns, and extracting meaningful insights from it.<br>I’m curious by nature and motivated by the challenge of turning raw data into knowledge using analytical thinking and AI-driven approaches.<br>
 
 
