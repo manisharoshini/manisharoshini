@@ -1,5 +1,17 @@
 # 💫 Hi I'm Roshini
-I am currently pursuing a degree in **Data Science and Artificial Intelligence** while simultaneously gaining hands-on experience through an internship.<br>I have a strong passion for **mathematics and problem-solving**, and I genuinely enjoy working with data—exploring it, uncovering hidden patterns, and extracting meaningful insights from it.<br>I’m curious by nature and motivated by the challenge of turning raw data into knowledge using analytical thinking and AI-driven approaches.<br>
+
+Hey! 👋 I'm a Data Science & AI student with a passion for turning messy data into meaningful stories.
+
+Right now, I'm juggling my degree and an internship, where I get to apply what I'm learning to real-world problems. I'm obsessed with:
+
+🧮 Math & algorithms<br>
+📈 Data exploration & visualization<br>
+🤖 AI/ML applications<br>
+🔎 Finding hidden patterns in data<br>
+
+Think of me as someone who gets genuinely excited about a well-structured dataset and the insights hiding inside it. I enjoy the full spectrum — from data wrangling to model deployment.
+
+Always open to collaborating on interesting projects!
 
 
 ## 🌐 Socials:
